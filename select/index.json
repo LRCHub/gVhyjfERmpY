@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛ノ詩 -マジェンタレイン-",
+  "base_artist": "相川七瀬",
+  "createdAt": "2026-02-22T05:50:32.483895Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛ノ詩 ～マジェンタレイン～",
+      "artist": "相川 七瀬",
+      "has_synced": false,
+      "path": "select/pl_01_愛ノ詩_~マジェンタレイン~_相川_七瀬.txt"
+    }
+  ]
+}
